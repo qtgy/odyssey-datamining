@@ -4,7 +4,7 @@ set -euo pipefail
 cd "$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 
 curl -s 'https://odyssey.starbucks.com/api/copydeck/en-US?nodes=account,benefits,cookie_gate,profile_information,help_message,journey_cards,notifications,dashboard,points_ledger,buttons,global,links,share' \
-  | jq > current.json
+  | jq --sort-keys > current.json
 
 git add current.json &&
   GIT_AUTHOR_NAME="auto" \
