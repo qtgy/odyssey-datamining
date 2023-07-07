@@ -1655,6 +1655,11 @@
       "_skip_tt": 1,
       "isCode": "1"
     },
+    ".go_back": {
+      "_name": "buttons.go_back",
+      "_skip_tt": 1,
+      "isCode": 1
+    },
     ".help": {
       "_name": "buttons.help",
       "_skip_tt": 1,
@@ -1787,6 +1792,7 @@
     "confirm": "Confirm",
     "continue": "Continue",
     "entry_reset": "<i class=\"fas fa-undo\"></i> GO BACK",
+    "go_back": "Go Back",
     "help": "Help!",
     "login": "LOGIN",
     "next": "Next",
