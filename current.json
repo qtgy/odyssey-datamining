@@ -1670,6 +1670,11 @@
       "_skip_tt": 1,
       "isCode": "1"
     },
+    ".market_external": {
+      "_name": "buttons.market_external",
+      "_skip_tt": 1,
+      "isCode": 1
+    },
     ".next": {
       "_name": "buttons.next",
       "_skip_tt": 1,
@@ -1795,6 +1800,7 @@
     "go_back": "Go Back",
     "help": "Help!",
     "login": "LOGIN",
+    "market_external": "View In Market",
     "next": "Next",
     "next_alt": "Let's Go",
     "preview": "<i class=\"fas fa-search-plus\"></i> PREVIEW",
