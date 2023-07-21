@@ -5,6 +5,16 @@
       "_skip_tt": 1,
       "isCode": "1"
     },
+    ".benefit_info_new": {
+      "_name": "benefits.benefit_info_new",
+      "_skip_tt": 1,
+      "isCode": 1
+    },
+    ".benefit_recap_body": {
+      "_name": "benefits.benefit_recap_body",
+      "_skip_tt": 1,
+      "isCode": 1
+    },
     ".benefits_begin": {
       "_name": "benefits.benefits_begin",
       "_skip_tt": 1,
@@ -31,6 +41,8 @@
       "isCode": "1"
     },
     "benefit_info": "Earn Points to unlock Benefit Levels all year long.<br>\nThe higher your Level, the better the Benefits.",
+    "benefit_info_new": "By completing Journeys and collecting Stamps, Starbucks Odyssey members can earn points and unlock benefit levels. Once you've unlocked a level, you will be able to choose one benefit during Benefit Selection Period. Your points balance and level will not be affected by making a selection.",
+    "benefit_recap_body": "The first Benefit Selection Period is a wrap. See some of the incredible milestones  the community hit.",
     "benefits_begin": "A new Benefit Selection Period is coming soon.",
     "level1": {
       ".info": {
