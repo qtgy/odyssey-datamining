@@ -4027,7 +4027,7 @@
       "point_correction": "Point Correction",
       "stamp_ownership": "Stamp Added",
       "stamp_relinquish": "Stamp Deduction",
-      "task_completion": "Completed {{- activity_type }} $t(activity_type)"
+      "task_completion": "Completed {{ activity_type }} $t(activity_type)"
     },
     "points": "POINTS"
   },
