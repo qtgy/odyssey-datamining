@@ -40,6 +40,10 @@
       "_name": "benefits.q1_2023",
       "isCode": "1"
     },
+    ".q2_2023": {
+      "_name": "benefits.q2_2023",
+      "isCode": 1
+    },
     "benefit_info": "Earn Points to unlock Benefit Levels all year long.<br>\nThe higher your Level, the better the Benefits.",
     "benefit_info_new": "By completing Journeys and collecting Stamps, Starbucks Odyssey members can earn points and unlock benefit levels. Once you've unlocked a level, you will be able to choose one benefit during Benefit Selection Period. Your points balance and level will not be affected by making a selection.",
     "benefit_recap_body": "The first Benefit Selection Period is a wrap. See some of the incredible milestones  the community hit.",
@@ -1622,6 +1626,110 @@
             },
             "body": "By clicking below, you are confirming your selection of Virtual Coffee Class. Confirming is final and cannot be undone.",
             "headline": "Confirm Your Selection"
+          }
+        }
+      }
+    },
+    "q2_2023": {
+      ".callout": {
+        "_name": "benefits.q2_2023.callout",
+        "isCode": 1
+      },
+      ".coming_soon_modal": {
+        "_name": "benefits.q2_2023.coming_soon_modal",
+        "isCode": 1
+      },
+      "callout": {
+        ".body": {
+          "_name": "benefits.q2_2023.callout.body",
+          "isCode": 1
+        },
+        ".headline": {
+          "_name": "benefits.q2_2023.callout.headline",
+          "isCode": 1
+        },
+        "body": {
+          ".active": {
+            "_name": "benefits.q2_2023.callout.body.active",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          ".display-only": {
+            "_name": "benefits.q2_2023.callout.body.display-only",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          "active": "Select one exclusive benefit from one of the levels you've unlocked by 11:59 pm PDT, August 27th.",
+          "display-only": "Stop by August 21st and get a sneak peek at the exclusive benefits you could choose from."
+        },
+        "headline": {
+          ".active": {
+            "_name": "benefits.q2_2023.callout.headline.active",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          ".display-only": {
+            "_name": "benefits.q2_2023.callout.headline.display-only",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          "active": "Choose Your Benefit Now",
+          "display-only": "New Benefits Coming Soon"
+        }
+      },
+      "coming_soon_modal": {
+        ".slides": {
+          "_name": "benefits.q2_2023.coming_soon_modal.slides",
+          "isCode": 1
+        },
+        "slides": {
+          ".1": {
+            "_name": "benefits.q2_2023.coming_soon_modal.slides.1",
+            "isCode": 1
+          },
+          ".2": {
+            "_name": "benefits.q2_2023.coming_soon_modal.slides.2",
+            "isCode": 1
+          },
+          "1": {
+            ".body": {
+              "_name": "benefits.q2_2023.coming_soon_modal.slides.1.body",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".button": {
+              "_name": "benefits.q2_2023.coming_soon_modal.slides.1.button",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".headline": {
+              "_name": "benefits.q2_2023.coming_soon_modal.slides.1.headline",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "body": "A new Benefit Selection Period begins August 21st-27th. Get a first look at the benefits available to Starbucks<sup>&reg;</sup> Odyssey members.",
+            "button": "Next",
+            "headline": "Sneak Peek of Benefits"
+          },
+          "2": {
+            ".body": {
+              "_name": "benefits.q2_2023.coming_soon_modal.slides.2.body",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".button": {
+              "_name": "benefits.q2_2023.coming_soon_modal.slides.2.button",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".headline": {
+              "_name": "benefits.q2_2023.coming_soon_modal.slides.2.headline",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "body": "<strong>So, what exactly are benefits?</strong> They’re exclusive experiences, opportunities or merch you can only access as a Starbucks® Odyssey member. Think free coffee, unique events at Starbucks Reserve®  roasteries, virtual coffee classes and so much more.<br>\n<br>\n<strong>Unlock benefits</strong> by earning points as you complete Journeys and by purchasing Stamps in the Market. The more points you have, the higher your benefit level.<br>\n<br>\n<strong>You can only select one benefit.</strong> The higher your level, the more benefit options you can choose from.",
+            "button": "Preview Benefits",
+            "headline": "Benefits 101"
           }
         }
       }
