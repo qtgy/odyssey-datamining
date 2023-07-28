@@ -415,37 +415,37 @@
         ".body": {
           "_name": "benefits.q1_2023.customStampTumbler.body",
           "_skip_tt": 1,
-          "isCode": "1"
+          "isCode": 1
         },
         ".confirmation": {
           "_name": "benefits.q1_2023.customStampTumbler.confirmation",
-          "isCode": "1"
+          "isCode": 1
         },
         ".headline": {
           "_name": "benefits.q1_2023.customStampTumbler.headline",
           "_skip_tt": 1,
-          "isCode": "1"
+          "isCode": 1
         },
         ".image": {
           "_name": "benefits.q1_2023.customStampTumbler.image",
           "_skip_tt": 1,
-          "isCode": "1"
+          "isCode": 1
         },
         ".slides": {
           "_name": "benefits.q1_2023.customStampTumbler.slides",
-          "isCode": "1"
+          "isCode": 1
         },
         "body": "Showcase a Stamp of your choice, printed on an insulated MiiR 360 Traveler.",
         "confirmation": {
           ".body": {
             "_name": "benefits.q1_2023.customStampTumbler.confirmation.body",
             "_skip_tt": 1,
-            "isCode": "1"
+            "isCode": 1
           },
           ".headline": {
             "_name": "benefits.q1_2023.customStampTumbler.confirmation.headline",
             "_skip_tt": 1,
-            "isCode": "1"
+            "isCode": 1
           },
           "body": "Your customized MiiR 360 Traveler is being prepared and will arrive at your confirmed destination in four to six weeks.",
           "headline": "Selection Confirmed"
@@ -455,30 +455,30 @@
         "slides": {
           ".1": {
             "_name": "benefits.q1_2023.customStampTumbler.slides.1",
-            "isCode": "1"
+            "isCode": 1
           },
           ".2": {
             "_name": "benefits.q1_2023.customStampTumbler.slides.2",
-            "isCode": "1"
+            "isCode": 1
           },
           ".3": {
             "_name": "benefits.q1_2023.customStampTumbler.slides.3",
-            "isCode": "1"
+            "isCode": 1
           },
           ".4": {
             "_name": "benefits.q1_2023.customStampTumbler.slides.4",
-            "isCode": "1"
+            "isCode": 1
           },
           "1": {
             ".body": {
               "_name": "benefits.q1_2023.customStampTumbler.slides.1.body",
               "_skip_tt": 1,
-              "isCode": "1"
+              "isCode": 1
             },
             ".headline": {
               "_name": "benefits.q1_2023.customStampTumbler.slides.1.headline",
               "_skip_tt": 1,
-              "isCode": "1"
+              "isCode": 1
             },
             "body": "We can't wait to see what you create! Choose a Stamp from your Starbucks Odyssey collection to print on an insulated MiiR 360 Traveler.",
             "headline": "Customized MiiR 360 Traveler"
@@ -487,7 +487,7 @@
             ".headline": {
               "_name": "benefits.q1_2023.customStampTumbler.slides.2.headline",
               "_skip_tt": 1,
-              "isCode": "1"
+              "isCode": 1
             },
             "headline": "Choose Your Stamp"
           },
@@ -495,17 +495,17 @@
             ".body": {
               "_name": "benefits.q1_2023.customStampTumbler.slides.3.body",
               "_skip_tt": 1,
-              "isCode": "1"
+              "isCode": 1
             },
             ".disclaimer": {
               "_name": "benefits.q1_2023.customStampTumbler.slides.3.disclaimer",
               "_skip_tt": 1,
-              "isCode": "1"
+              "isCode": 1
             },
             ".headline": {
               "_name": "benefits.q1_2023.customStampTumbler.slides.3.headline",
               "_skip_tt": 1,
-              "isCode": "1"
+              "isCode": 1
             },
             "body": "Fill out where you'd like your customized Traveler to be delivered.",
             "disclaimer": "<p>Stamp artwork cannot be changed once selected. If the Stamp you choose is an animated file, one static frame will be selected and made print-ready.</p>\n<p>We cannot ship to post office boxes or addresses outside the U.S.  Please allow 4-6 weeks for delivery.  Once you have completed this form and submitted your address, it cannot be changed.  We are not responsible for lost or damaged items.</p>",
@@ -515,12 +515,12 @@
             ".body": {
               "_name": "benefits.q1_2023.customStampTumbler.slides.4.body",
               "_skip_tt": 1,
-              "isCode": "1"
+              "isCode": 1
             },
             ".headline": {
               "_name": "benefits.q1_2023.customStampTumbler.slides.4.headline",
               "_skip_tt": 1,
-              "isCode": "1"
+              "isCode": 1
             },
             "body": "The destination you entered is:\n<span class=\"callout\">\n{{- address }}\n</span>\nBy clicking below, you are confirming your selection of a customized MiiR 360 Traveler. Confirming is final and cannot be undone.",
             "headline": "Confirm Your Address and Selection"
@@ -1631,13 +1631,125 @@
       }
     },
     "q2_2023": {
+      ".additionalInformation": {
+        "_name": "benefits.q2_2023.additionalInformation",
+        "isCode": 1
+      },
       ".callout": {
         "_name": "benefits.q2_2023.callout",
+        "isCode": 1
+      },
+      ".coldCup": {
+        "_name": "benefits.q2_2023.coldCup",
         "isCode": 1
       },
       ".coming_soon_modal": {
         "_name": "benefits.q2_2023.coming_soon_modal",
         "isCode": 1
+      },
+      ".starbucksPin": {
+        "_name": "benefits.q2_2023.starbucksPin",
+        "isCode": 1
+      },
+      ".wallpaperSelection": {
+        "_name": "benefits.q2_2023.wallpaperSelection",
+        "isCode": 1
+      },
+      ".waterOrgDonation": {
+        "_name": "benefits.q2_2023.waterOrgDonation",
+        "isCode": 1
+      },
+      "additionalInformation": {
+        ".active": {
+          "_name": "benefits.q2_2023.additionalInformation.active",
+          "isCode": 1
+        },
+        ".display-only": {
+          "_name": "benefits.q2_2023.additionalInformation.display-only",
+          "isCode": 1
+        },
+        ".not_earned": {
+          "_name": "benefits.q2_2023.additionalInformation.not_earned",
+          "isCode": 1
+        },
+        ".selected": {
+          "_name": "benefits.q2_2023.additionalInformation.selected",
+          "isCode": 1
+        },
+        "active": {
+          ".body": {
+            "_name": "benefits.q2_2023.additionalInformation.active.body",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          ".headline": {
+            "_name": "benefits.q2_2023.additionalInformation.active.headline",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          "body": "Explore all-new exclusive benefits and pick one before 11:59 pm PDT on August 27th. The more levels you’ve unlocked, the more benefits you can choose from.",
+          "headline": "Choose Your Benefit Now"
+        },
+        "display-only": {
+          ".body": {
+            "_name": "benefits.q2_2023.additionalInformation.display-only.body",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          ".callout": {
+            "_name": "benefits.q2_2023.additionalInformation.display-only.callout",
+            "isCode": 1
+          },
+          ".headline": {
+            "_name": "benefits.q2_2023.additionalInformation.display-only.headline",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          "body": "A new Benefit Selection Period is just around the corner. Here's a preview of the exclusive benefits you'll be able to choose from. <strong>You can only select one benefit,</strong> so continue to unlock levels through August 21st 11:59 pm PDT. The higher your level, the more you can choose from.",
+          "callout": {
+            ".body": {
+              "_name": "benefits.q2_2023.additionalInformation.display-only.callout.body",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".headline": {
+              "_name": "benefits.q2_2023.additionalInformation.display-only.callout.headline",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "body": "Live Aug 21st, 9 AM PDT - Aug 27th, 11:59 pm PDT",
+            "headline": "New benefit selection period"
+          },
+          "headline": "Get Ready to Choose"
+        },
+        "not_earned": {
+          ".body": {
+            "_name": "benefits.q2_2023.additionalInformation.not_earned.body",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          ".headline": {
+            "_name": "benefits.q2_2023.additionalInformation.not_earned.headline",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          "body": "Benefit levels locked on August 18th. While you didn’t reach a level this time, keep earning points to unlock a level for the next Benefit Selection Period.",
+          "headline": "Unlock a Level for Next Time"
+        },
+        "selected": {
+          ".body": {
+            "_name": "benefits.q2_2023.additionalInformation.selected.body",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          ".headline": {
+            "_name": "benefits.q2_2023.additionalInformation.selected.headline",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          "body": "We hope you enjoy your exclusive benefit.",
+          "headline": "Thank You for Being Part of Starbucks<sup>&reg;</sup> Odyssey"
+        }
       },
       "callout": {
         ".body": {
@@ -1675,6 +1787,116 @@
           },
           "active": "Choose Your Benefit Now",
           "display-only": "New Benefits Coming Soon"
+        }
+      },
+      "coldCup": {
+        ".body": {
+          "_name": "benefits.q2_2023.coldCup.body",
+          "_skip_tt": 1,
+          "isCode": 1
+        },
+        ".confirmation": {
+          "_name": "benefits.q2_2023.coldCup.confirmation",
+          "isCode": 1
+        },
+        ".headline": {
+          "_name": "benefits.q2_2023.coldCup.headline",
+          "_skip_tt": 1,
+          "isCode": 1
+        },
+        ".image": {
+          "_name": "benefits.q2_2023.coldCup.image",
+          "_skip_tt": 1,
+          "isCode": 1
+        },
+        ".slides": {
+          "_name": "benefits.q2_2023.coldCup.slides",
+          "isCode": 1
+        },
+        "body": "Sip your favorite drink in our studded-plastic cold cup.",
+        "confirmation": {
+          ".body": {
+            "_name": "benefits.q2_2023.coldCup.confirmation.body",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          ".disclaimer": {
+            "_name": "benefits.q2_2023.coldCup.confirmation.disclaimer",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          ".headline": {
+            "_name": "benefits.q2_2023.coldCup.confirmation.headline",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          "body": "Thank you for selecting your benefit. Please allow up to 6 to 8 weeks for delivery*.",
+          "disclaimer": "*Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor. in.reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+          "headline": "Congratulations!"
+        },
+        "headline": "Starbucks Cold Cup",
+        "image": "benefit_coldCup.png",
+        "slides": {
+          ".1": {
+            "_name": "benefits.q2_2023.coldCup.slides.1",
+            "isCode": 1
+          },
+          ".2": {
+            "_name": "benefits.q2_2023.coldCup.slides.2",
+            "isCode": 1
+          },
+          ".3": {
+            "_name": "benefits.q2_2023.coldCup.slides.3",
+            "isCode": 1
+          },
+          "1": {
+            ".body": {
+              "_name": "benefits.q2_2023.coldCup.slides.1.body",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".headline": {
+              "_name": "benefits.q2_2023.coldCup.slides.1.headline",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "body": "Where you go, it goes. Sip your favorite drink in our 24oz double-walled, soft touch studded-plastic cold cup.",
+            "headline": "Starbucks® Cold Cup"
+          },
+          "2": {
+            ".body": {
+              "_name": "benefits.q2_2023.coldCup.slides.2.body",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".disclaimer": {
+              "_name": "benefits.q2_2023.coldCup.slides.2.disclaimer",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".headline": {
+              "_name": "benefits.q2_2023.coldCup.slides.2.headline",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "body": "We need a few details before we can ship your benefit.",
+            "disclaimer": "We cannot ship to post office boxes or addresses outside the U.S. Please allow up to 4 to 5 weeks for delivery.",
+            "headline": "Where Should We Send Your Cup?"
+          },
+          "3": {
+            ".body": {
+              "_name": "benefits.q2_2023.coldCup.slides.3.body",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".headline": {
+              "_name": "benefits.q2_2023.coldCup.slides.3.headline",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "body": "The destination you entered is:\n<span class=\"callout\">\n  {{- address }}\n</span>\nBy clicking below, you are confirming your selection of Starbucks Cold Cup. Confirming is final and cannot be undone.",
+            "headline": "Confirm Your Address and Selection"
+          }
         }
       },
       "coming_soon_modal": {
@@ -1730,6 +1952,366 @@
             "body": "<strong>So, what exactly are benefits?</strong> They’re exclusive experiences, opportunities or merch you can only access as a Starbucks® Odyssey member. Think free coffee, unique events at Starbucks Reserve®  roasteries, virtual coffee classes and so much more.<br>\n<br>\n<strong>Unlock benefits</strong> by earning points as you complete Journeys and by purchasing Stamps in the Market. The more points you have, the higher your benefit level.<br>\n<br>\n<strong>You can only select one benefit.</strong> The higher your level, the more benefit options you can choose from.",
             "button": "Preview Benefits",
             "headline": "Benefits 101"
+          }
+        }
+      },
+      "starbucksPin": {
+        ".body": {
+          "_name": "benefits.q2_2023.starbucksPin.body",
+          "_skip_tt": 1,
+          "isCode": 1
+        },
+        ".confirmation": {
+          "_name": "benefits.q2_2023.starbucksPin.confirmation",
+          "isCode": 1
+        },
+        ".headline": {
+          "_name": "benefits.q2_2023.starbucksPin.headline",
+          "_skip_tt": 1,
+          "isCode": 1
+        },
+        ".slides": {
+          "_name": "benefits.q2_2023.starbucksPin.slides",
+          "isCode": 1
+        },
+        "body": "Decorate with a 3-pack of Starbucks Odyssey inspired sticker sheets.",
+        "confirmation": {
+          ".body": {
+            "_name": "benefits.q2_2023.starbucksPin.confirmation.body",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          ".disclaimer": {
+            "_name": "benefits.q2_2023.starbucksPin.confirmation.disclaimer",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          ".headline": {
+            "_name": "benefits.q2_2023.starbucksPin.confirmation.headline",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          "body": "Thank you for selecting your benefit. Please allow up to 6 to 8 weeks for delivery*.",
+          "disclaimer": "*Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor. in.reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+          "headline": "Congratulations!"
+        },
+        "headline": "Starbucks<sup>&reg;</sup> Odyssey Stickers",
+        "slides": {
+          ".1": {
+            "_name": "benefits.q2_2023.starbucksPin.slides.1",
+            "isCode": 1
+          },
+          ".2": {
+            "_name": "benefits.q2_2023.starbucksPin.slides.2",
+            "isCode": 1
+          },
+          ".3": {
+            "_name": "benefits.q2_2023.starbucksPin.slides.3",
+            "isCode": 1
+          },
+          "1": {
+            ".body": {
+              "_name": "benefits.q2_2023.starbucksPin.slides.1.body",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".headline": {
+              "_name": "benefits.q2_2023.starbucksPin.slides.1.headline",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "body": "It's all about accessories. Decorate your mugs, travelers and more with a 3-pack of sticker sheets inspired by Starbucks Odyssey.",
+            "headline": "Starbucks<sup>&reg;</sup> Odyssey Stickers"
+          },
+          "2": {
+            ".body": {
+              "_name": "benefits.q2_2023.starbucksPin.slides.2.body",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".disclaimer": {
+              "_name": "benefits.q2_2023.starbucksPin.slides.2.disclaimer",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".headline": {
+              "_name": "benefits.q2_2023.starbucksPin.slides.2.headline",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "body": "We need a few details before we can ship your benefit.",
+            "disclaimer": "We cannot ship to post office boxes or addresses outside the U.S. Please allow up to 6 to 8 weeks for delivery.",
+            "headline": "Great!"
+          },
+          "3": {
+            ".body": {
+              "_name": "benefits.q2_2023.starbucksPin.slides.3.body",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".disclaimer": {
+              "_name": "benefits.q2_2023.starbucksPin.slides.3.disclaimer",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".headline": {
+              "_name": "benefits.q2_2023.starbucksPin.slides.3.headline",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "body": "Make sure this is the benefit you wish to select, then confirm your shipping address below is correct.\n<span class=\"callout\">\n  {{- address }}\n</span>\nOnce you move past this step, your shipping address and benefit selection cannot be changed",
+            "disclaimer": "We cannot ship to post office boxes or addresses outside the U.S. Please allow up to 6 to 8 weeks for delivery.",
+            "headline": "You've Selected Stickers"
+          }
+        }
+      },
+      "wallpaperSelection": {
+        ".body": {
+          "_name": "benefits.q2_2023.wallpaperSelection.body",
+          "_skip_tt": 1,
+          "isCode": 1
+        },
+        ".confirmation": {
+          "_name": "benefits.q2_2023.wallpaperSelection.confirmation",
+          "isCode": 1
+        },
+        ".headline": {
+          "_name": "benefits.q2_2023.wallpaperSelection.headline",
+          "_skip_tt": 1,
+          "isCode": 1
+        },
+        ".options": {
+          "_name": "benefits.q2_2023.wallpaperSelection.options",
+          "isCode": 1
+        },
+        ".slides": {
+          "_name": "benefits.q2_2023.wallpaperSelection.slides",
+          "isCode": 1
+        },
+        "body": "Select your favorite Starbucks Odyssey wallpaper for your phone and computer.",
+        "confirmation": {
+          ".body": {
+            "_name": "benefits.q2_2023.wallpaperSelection.confirmation.body",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          ".headline": {
+            "_name": "benefits.q2_2023.wallpaperSelection.confirmation.headline",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          "body": "You've selected your benefit. We'll send all important details to the email address associated with your Starbucks<sup>&reg;</sup> Rewards account soon.\nThank you for being a Starbucks Odyssey member, we hope you enjoy your benefit.",
+          "headline": "Congratulations!"
+        },
+        "headline": "Starbucks® Odyssey Digital Wallpaper",
+        "options": {
+          ".1": {
+            "_name": "benefits.q2_2023.wallpaperSelection.options.1",
+            "isCode": 1
+          },
+          ".2": {
+            "_name": "benefits.q2_2023.wallpaperSelection.options.2",
+            "isCode": 1
+          },
+          ".3": {
+            "_name": "benefits.q2_2023.wallpaperSelection.options.3",
+            "isCode": 1
+          },
+          ".4": {
+            "_name": "benefits.q2_2023.wallpaperSelection.options.4",
+            "isCode": 1
+          },
+          "1": {
+            ".id": {
+              "_name": "benefits.q2_2023.wallpaperSelection.options.1.id",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".name": {
+              "_name": "benefits.q2_2023.wallpaperSelection.options.1.name",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "id": "verandaHummingbird",
+            "name": "Veranda Hummingbird"
+          },
+          "2": {
+            ".id": {
+              "_name": "benefits.q2_2023.wallpaperSelection.options.2.id",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".name": {
+              "_name": "benefits.q2_2023.wallpaperSelection.options.2.name",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "id": "sumatraTiger",
+            "name": "Sumatra Tiger"
+          },
+          "3": {
+            ".id": {
+              "_name": "benefits.q2_2023.wallpaperSelection.options.3.id",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".name": {
+              "_name": "benefits.q2_2023.wallpaperSelection.options.3.name",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "id": "yukonBear",
+            "name": "Yukon Bear"
+          },
+          "4": {
+            ".id": {
+              "_name": "benefits.q2_2023.wallpaperSelection.options.4.id",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".name": {
+              "_name": "benefits.q2_2023.wallpaperSelection.options.4.name",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "id": "komodoDragon",
+            "name": "Komodo Dragon"
+          }
+        },
+        "slides": {
+          ".1": {
+            "_name": "benefits.q2_2023.wallpaperSelection.slides.1",
+            "isCode": 1
+          },
+          ".2": {
+            "_name": "benefits.q2_2023.wallpaperSelection.slides.2",
+            "isCode": 1
+          },
+          ".3": {
+            "_name": "benefits.q2_2023.wallpaperSelection.slides.3",
+            "isCode": 1
+          },
+          "1": {
+            ".body": {
+              "_name": "benefits.q2_2023.wallpaperSelection.slides.1.body",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".headline": {
+              "_name": "benefits.q2_2023.wallpaperSelection.slides.1.headline",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "body": "Show your love for Starbucks Odyssey and select an avatar-themed digital wallpaper for your phone and computer.",
+            "headline": "Starbucks<sup>&reg;</sup> Odyssey Digital Wallpaper"
+          },
+          "2": {
+            ".body": {
+              "_name": "benefits.q2_2023.wallpaperSelection.slides.2.body",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".headline": {
+              "_name": "benefits.q2_2023.wallpaperSelection.slides.2.headline",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "body": "Pick your favorite Starbucks® Odyssey avatar and receive digital wallpapers for your phone and computer.",
+            "headline": "Choose Your Wallpaper"
+          },
+          "3": {
+            ".body": {
+              "_name": "benefits.q2_2023.wallpaperSelection.slides.3.body",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".headline": {
+              "_name": "benefits.q2_2023.wallpaperSelection.slides.3.headline",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "body": "Make sure this is the benefit you want because once you've confirmed your selection, it cannot be changed.",
+            "headline": "You've Selected {{- benefitSelected }}"
+          }
+        }
+      },
+      "waterOrgDonation": {
+        ".body": {
+          "_name": "benefits.q2_2023.waterOrgDonation.body",
+          "_skip_tt": 1,
+          "isCode": 1
+        },
+        ".confirmation": {
+          "_name": "benefits.q2_2023.waterOrgDonation.confirmation",
+          "isCode": 1
+        },
+        ".headline": {
+          "_name": "benefits.q2_2023.waterOrgDonation.headline",
+          "_skip_tt": 1,
+          "isCode": 1
+        },
+        ".slides": {
+          "_name": "benefits.q2_2023.waterOrgDonation.slides",
+          "isCode": 1
+        },
+        "body": "Help provide 50 meals to neighbors facing hunger.",
+        "confirmation": {
+          ".body": {
+            "_name": "benefits.q2_2023.waterOrgDonation.confirmation.body",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          ".headline": {
+            "_name": "benefits.q2_2023.waterOrgDonation.confirmation.headline",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          "body": "You've selected your benefit. We'll send all important details to the email address associated with your Starbucks<sup>&reg;</sup>\nRewards account soon. Thank you for being a Starbucks Odyssey member, we hope you enjoy your benefit.",
+          "headline": "Congratulations!"
+        },
+        "headline": "Water.org Donation",
+        "slides": {
+          ".1": {
+            "_name": "benefits.q2_2023.waterOrgDonation.slides.1",
+            "isCode": 1
+          },
+          ".2": {
+            "_name": "benefits.q2_2023.waterOrgDonation.slides.2",
+            "isCode": 1
+          },
+          "1": {
+            ".body": {
+              "_name": "benefits.q2_2023.waterOrgDonation.slides.1.body",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".disclaimer": {
+              "_name": "benefits.q2_2023.waterOrgDonation.slides.1.disclaimer",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".headline": {
+              "_name": "benefits.q2_2023.waterOrgDonation.slides.1.headline",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "body": "Water is essential. With this benefit, Starbucks will donate $5 to Water.org. Each donation provides one person with lasting access to safe water.*",
+            "disclaimer": "*Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+            "headline": "Water.org Donation"
+          },
+          "2": {
+            ".body": {
+              "_name": "benefits.q2_2023.waterOrgDonation.slides.2.body",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".headline": {
+              "_name": "benefits.q2_2023.waterOrgDonation.slides.2.headline",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "body": "By clicking below, you are confirming your selection of a donation to Water.org Donation. Confirming is final and cannot be undone.",
+            "headline": "Confirm Your Selection"
           }
         }
       }
