@@ -1689,7 +1689,7 @@
             "_skip_tt": 1,
             "isCode": "1"
           },
-          "body": "A new Benefit Selection Period is just around the corner. Here's a preview of the exclusive benefits you'll be able to choose from. <strong>You can only select one benefit,</strong> so continue to unlock levels through August 18th 11:59 pm PDT. The higher your level, the more you can choose from.",
+          "body": "A new Benefit Selection Period is just around the corner. Here's a preview of the benefits you'll be able to choose from.\n</br>\n</br>\nThrough August 18th 11:59pm PDT, continue to unlock new levels to access more benefits. Remember, you'll only be able to select one benefit, so choose wisely.\n",
           "callout": {
             ".body": {
               "_name": "benefits.q2_2023.additionalInformation.display-only.callout.body",
@@ -1756,7 +1756,7 @@
             "isCode": "1"
           },
           "active": "Select one exclusive benefit from one of the levels you've unlocked by 11:59 pm PDT, August 27th.",
-          "display-only": "Stop by August 21st and get a sneak peek at the exclusive benefits you could choose from."
+          "display-only": "Stop by August 21st and see the exclusive benefits you could choose..."
         },
         "headline": {
           ".active": {
@@ -1823,7 +1823,7 @@
               "_skip_tt": 1,
               "isCode": "1"
             },
-            "body": "<strong>So, what exactly are benefits?</strong>\n  They're exclusive experiences, opportunities or merch you can only access as a Starbucks<sup>&reg;</sup> Odyssey member.\n  Think free coffee, unique events at Starbucks Reserve®  roasteries, virtual coffee classes and so much more.\n  <br>\n  <br>\n  <strong>Unlock benefits</strong> by earning points as you complete Journeys and by purchasing Stamps in the Market. The more points you have, the higher your benefit level.<br>\n<br>\n<strong>You can only select one benefit.</strong> The higher your level, the more benefit options you can choose from.",
+            "body": "<strong>So, what exactly are benefits?</strong>\n  They're exclusive experiences, opportunities or you can only access as a Starbucks<sup>&reg;</sup> Odyssey member. Think free coffee, unique events at Starbucks Reserve<sup>&reg;</sup> Roasteries, virtual coffee classes, and so much more.\n  <br>\n  <br>\n  <strong>Unlock benefits levels</strong> by earning points as you complete Journeys and by purchasing Stamps in the Market. The more points you have, the more benefit options you can select from.\n<br>\n<br>\n<strong>You can select one benefit.</strong> The higher your level, the more benefit options you can choose from.",
             "button": "Preview Benefits",
             "headline": "Benefits 101"
           }
@@ -3757,8 +3757,6 @@
         "isCode": "1"
       },
       ".link": {
-        "_name": "journey_cards.fallJourney2023.link",
-        "_skip_tt": 1,
         "isCode": "1"
       },
       ".thumbnail": {
@@ -3766,9 +3764,8 @@
         "_skip_tt": 1,
         "isCode": "1"
       },
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc magna neque, egestas.",
-      "headline": "Fall Journey Lorem",
-      "link": "Lorem ipsum dolor sit amet",
+      "body": "Say cheers to 20 years of the iconic Pumpkin Spice Latte.",
+      "headline": "20 Years of PSL",
       "thumbnail": "fallJourney2023.jpg"
     },
     "goingPlacesJourney2023": {
