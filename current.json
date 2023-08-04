@@ -1701,7 +1701,7 @@
               "_skip_tt": 1,
               "isCode": "1"
             },
-            "body": "Live Aug 21st, 12 pm PDT - Aug 27th, 11:59 pm PDT ",
+            "body": "Live Aug 21st, 12 pm PDT - <br class=\"small-only\">Aug 27th, 11:59 pm PDT ",
             "headline": "New benefit selection period"
           },
           "headline": "Get Ready to Choose"
@@ -1756,7 +1756,7 @@
             "isCode": "1"
           },
           "active": "Select one exclusive benefit from one of the levels you've unlocked by 11:59 pm PDT, August 27th.",
-          "display-only": "Stop by August 21st and see the exclusive benefits you could choose..."
+          "display-only": "Check out the exclusive benefits you could choose from..."
         },
         "headline": {
           ".active": {
@@ -1823,7 +1823,7 @@
               "_skip_tt": 1,
               "isCode": "1"
             },
-            "body": "<strong>So, what exactly are benefits?</strong>\n  They're exclusive experiences, opportunities or you can only access as a Starbucks<sup>&reg;</sup> Odyssey member. Think free coffee, unique events at Starbucks Reserve<sup>&reg;</sup> Roasteries, virtual coffee classes, and so much more.\n  <br>\n  <br>\n  <strong>Unlock benefits levels</strong> by earning points as you complete Journeys and by purchasing Stamps in the Market. The more points you have, the more benefit options you can select from.\n<br>\n<br>\n<strong>You can select one benefit.</strong> The higher your level, the more benefit options you can choose from.",
+            "body": "<strong>What exactly are benefits?</strong> They're exclusive experiences, merch, product or philanthropic opportunities you can only access as a Starbucks<sup>&reg;</sup> Odyssey member. Think free coffee, unique events at Starbucks Reserve<sup>&reg;</sup> Roasteries, virtual coffee classes, and so much more.\n  <br>\n  <br>\n  <strong>Unlock benefits levels</strong> by earning points as you complete Journeys or collecting Stamps. The more points you have, the more benefit options you can select from. You can select one benefit per selection period.",
             "button": "Preview Benefits",
             "headline": "Benefits 101"
           }
