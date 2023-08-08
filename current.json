@@ -406,7 +406,7 @@
               "isCode": "1"
             },
             "body": "The destination you entered is:\n<span class=\"callout\">\n  {{- address }}\n</span>\nBy clicking below, you are confirming your selection of Starbucks Coffee Passport and its delivery address. Confirming is final and cannot be undone.",
-            "disclaimer": "We cannot ship to post office boxes or addresses outside the U.S. Please allow 4 to 5 weeks for delivery.",
+            "disclaimer": "We cannot ship to post office boxes or addresses outside the U.S. Please allow 6 to 8 weeks for delivery.",
             "headline": "Confirm Your Address and Selection"
           }
         }
@@ -1648,6 +1648,10 @@
           "_name": "benefits.q2_2023.additionalInformation.active",
           "isCode": "1"
         },
+        ".after": {
+          "_name": "benefits.q2_2023.additionalInformation.after",
+          "isCode": 1
+        },
         ".display-only": {
           "_name": "benefits.q2_2023.additionalInformation.display-only",
           "isCode": "1"
@@ -1673,6 +1677,20 @@
           },
           "body": "Explore all-new exclusive benefits and pick one before 11:59 pm PDT on August 27th. The more levels you’ve unlocked, the more benefits you can choose from.",
           "headline": "Choose Your Benefit Now"
+        },
+        "after": {
+          ".body": {
+            "_name": "benefits.q2_2023.additionalInformation.after.body",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          ".headline": {
+            "_name": "benefits.q2_2023.additionalInformation.after.headline",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          "body": "More benefits are coming later this year. Keep earning points and unlocking levels by completing your Journeys and collecting Stamps.",
+          "headline": "Benefit Selection Period has Closed"
         },
         "display-only": {
           ".body": {
@@ -1717,7 +1735,7 @@
             "_skip_tt": 1,
             "isCode": "1"
           },
-          "body": "Benefit levels locked on August 18th. While you didn’t reach a level this time, keep earning points to unlock a level for the next Benefit Selection Period.",
+          "body": "Benefit levels locked on August 18th. While you didn’t reach a level this time, keep earning points to unlock one so that you can choose a benefit next selection period.",
           "headline": "Unlock a Level for Next Time"
         },
         "selected": {
