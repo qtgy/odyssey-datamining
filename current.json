@@ -1999,6 +1999,11 @@
       "_skip_tt": 1,
       "isCode": "1"
     },
+    ".view_availability": {
+      "_name": "buttons.view_availability",
+      "_skip_tt": 1,
+      "isCode": 1
+    },
     ".viral": {
       "_name": "buttons.viral",
       "_skip_tt": 1,
@@ -2053,6 +2058,7 @@
     "try_again": "Try Again",
     "update": "UPDATE",
     "upload": "UPLOAD",
+    "view_availability": "View Availability",
     "viral": "TELL FRIENDS"
   },
   "cookie_gate": {
