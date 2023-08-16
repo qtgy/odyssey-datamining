@@ -1,5 +1,10 @@
 {
   "benefits": {
+    ".benefit_faq": {
+      "_name": "benefits.benefit_faq",
+      "_skip_tt": 1,
+      "isCode": "1"
+    },
     ".benefit_info": {
       "_name": "benefits.benefit_info",
       "_skip_tt": 1,
@@ -44,6 +49,7 @@
       "_name": "benefits.q2_2023",
       "isCode": "1"
     },
+    "benefit_faq": "Benefits FAQs",
     "benefit_info": "Earn Points to unlock Benefit Levels all year long.<br>\nThe higher your Level, the better the Benefits.",
     "benefit_info_new": "By completing Journeys and collecting Stamps, Starbucks Odyssey members can earn points and unlock benefit levels. Once you've unlocked a level, you will be able to choose one benefit during Benefit Selection Period. Your points balance and level will not be affected by making a selection.",
     "benefit_recap_body": "The first Benefit Selection Period is a wrap. See some of the incredible milestones  the community hit.",
@@ -1650,7 +1656,7 @@
         },
         ".after": {
           "_name": "benefits.q2_2023.additionalInformation.after",
-          "isCode": 1
+          "isCode": "1"
         },
         ".display-only": {
           "_name": "benefits.q2_2023.additionalInformation.display-only",
@@ -1675,19 +1681,19 @@
             "_skip_tt": 1,
             "isCode": "1"
           },
-          "body": "Explore all-new exclusive benefits and pick one before 11:59 pm PDT on August 27th. The more levels you’ve unlocked, the more benefits you can choose from.",
+          "body": "Explore all of the exclusive benefits and pick one before 11:59 pm PDT on August 27th. The more levels you’ve unlocked, the more benefits you can choose from.",
           "headline": "Choose Your Benefit Now"
         },
         "after": {
           ".body": {
             "_name": "benefits.q2_2023.additionalInformation.after.body",
             "_skip_tt": 1,
-            "isCode": 1
+            "isCode": "1"
           },
           ".headline": {
             "_name": "benefits.q2_2023.additionalInformation.after.headline",
             "_skip_tt": 1,
-            "isCode": 1
+            "isCode": "1"
           },
           "body": "More benefits are coming later this year. Keep earning points and unlocking levels by completing your Journeys and collecting Stamps.",
           "headline": "Benefit Selection Period has Closed"
