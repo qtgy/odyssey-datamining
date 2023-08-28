@@ -1925,6 +1925,11 @@
       "_skip_tt": 1,
       "isCode": "1"
     },
+    ".play_again": {
+      "_name": "buttons.play_again",
+      "_skip_tt": 1,
+      "isCode": 1
+    },
     ".preview": {
       "_name": "buttons.preview",
       "_skip_tt": 1,
@@ -2048,6 +2053,7 @@
     "market_external": "View In Market",
     "next": "Next",
     "next_alt": "Let's Go",
+    "play_again": "Play Again",
     "preview": "<i class=\"fas fa-search-plus\"></i> PREVIEW",
     "quiz_retry": "Try Again",
     "quiz_save": "Submit Answer",
