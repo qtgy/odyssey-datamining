@@ -3680,6 +3680,10 @@
       "_name": "journey_cards.holiday2022",
       "isCode": "1"
     },
+    ".holidayJourney2023": {
+      "_name": "journey_cards.holidayJourney2023",
+      "isCode": 1
+    },
     ".placeholder": {
       "_name": "journey_cards.placeholder",
       "isCode": "1"
@@ -3881,6 +3885,32 @@
       "headline": "Holiday Cheer",
       "link": "Explore the Holiday Journey",
       "thumbnail": "holiday2022.jpg"
+    },
+    "holidayJourney2023": {
+      ".body": {
+        "_name": "journey_cards.holidayJourney2023.body",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
+      ".headline": {
+        "_name": "journey_cards.holidayJourney2023.headline",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
+      ".link": {
+        "_name": "journey_cards.holidayJourney2023.link",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
+      ".thumbnail": {
+        "_name": "journey_cards.holidayJourney2023.thumbnail",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
+      "body": "Unwrap holiday cheer and celebrate one year of Starbucks<sup>&reg;</sup> Odyssey.",
+      "headline": "2023 Unwrapped",
+      "link": "Explore the 2023 Unwrapped",
+      "thumbnail": "holidayJourney2023.jpg"
     },
     "placeholder": {
       ".headline": {
