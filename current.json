@@ -1975,6 +1975,11 @@
       "_skip_tt": 1,
       "isCode": "1"
     },
+    ".start_over": {
+      "_name": "buttons.start_over",
+      "_skip_tt": 1,
+      "isCode": 1
+    },
     ".submit": {
       "_name": "buttons.submit",
       "_skip_tt": 1,
@@ -2063,6 +2068,7 @@
     "select_benefit": "Select Benefit",
     "select_file": "SELECT FILE",
     "sign_in": "SIGN IN",
+    "start_over": "Start Over",
     "submit": "SUBMIT",
     "submit_avatar": "Update My Avatar",
     "survey_save": "Submit",
