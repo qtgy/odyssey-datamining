@@ -49,10 +49,14 @@
       "_name": "benefits.q2_2023",
       "isCode": "1"
     },
+    ".q4_2023": {
+      "_name": "benefits.q4_2023",
+      "isCode": "1"
+    },
     "benefit_faq": "Benefits FAQs",
     "benefit_info": "Earn Points to unlock Benefit Levels all year long.<br>\nThe higher your Level, the better the Benefits.",
-    "benefit_info_new": "By completing Journeys and collecting Stamps, Starbucks Odyssey members earn points and unlock benefit levels. When you've unlocked a level, choose one benefit during a Benefit SelectionPeriod. Your points balance and level will not decrease after making a selection.",
-    "benefit_recap_body": "The first Benefit Selection Period is a wrap. See some of the incredible milestones  the community hit.",
+    "benefit_info_new": "By completing Journeys and collecting Stamps, Starbucks Odyssey members earn points and unlock benefit levels. When you've unlocked a level, choose one benefit during a Benefit Selection Period. Your points balance and level will not decrease after making a selection.",
+    "benefit_recap_body": "The second Benefit Selection Period is a wrap. See some of the incredible milestones the community hit.",
     "benefits_begin": "A new Benefit Selection Period is coming soon.",
     "level1": {
       ".info": {
@@ -1851,6 +1855,245 @@
             "button": "Preview Benefits",
             "headline": "Benefits 101"
           }
+        }
+      }
+    },
+    "q4_2023": {
+      ".additionalInformation": {
+        "_name": "benefits.q4_2023.additionalInformation",
+        "isCode": "1"
+      },
+      ".callout": {
+        "_name": "benefits.q4_2023.callout",
+        "isCode": "1"
+      },
+      ".coming_soon_modal": {
+        "_name": "benefits.q4_2023.coming_soon_modal",
+        "isCode": "1"
+      },
+      ".introContent": {
+        "_name": "benefits.q4_2023.introContent",
+        "isCode": "1"
+      },
+      "additionalInformation": {
+        ".active": {
+          "_name": "benefits.q4_2023.additionalInformation.active",
+          "isCode": "1"
+        },
+        ".after": {
+          "_name": "benefits.q4_2023.additionalInformation.after",
+          "isCode": "1"
+        },
+        ".display-only": {
+          "_name": "benefits.q4_2023.additionalInformation.display-only",
+          "isCode": "1"
+        },
+        ".not_earned": {
+          "_name": "benefits.q4_2023.additionalInformation.not_earned",
+          "isCode": "1"
+        },
+        ".selected": {
+          "_name": "benefits.q4_2023.additionalInformation.selected",
+          "isCode": "1"
+        },
+        "active": {
+          ".body": {
+            "_name": "benefits.q4_2023.additionalInformation.active.body",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          ".headline": {
+            "_name": "benefits.q4_2023.additionalInformation.active.headline",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          "body": "Explore all of the exclusive benefits and pick one before 11:59 pm PDT on August 27th. The more levels you’ve unlocked, the more benefits you can choose from.",
+          "headline": "Choose Your Benefit Now"
+        },
+        "after": {
+          ".body": {
+            "_name": "benefits.q4_2023.additionalInformation.after.body",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          ".headline": {
+            "_name": "benefits.q4_2023.additionalInformation.after.headline",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          "body": "More benefits are coming later this year. Keep earning points and unlocking levels by completing your Journeys and collecting Stamps.",
+          "headline": "Benefit Selection Period has Closed"
+        },
+        "display-only": {
+          ".body": {
+            "_name": "benefits.q4_2023.additionalInformation.display-only.body",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          ".callout": {
+            "isCode": "1"
+          },
+          ".headline": {
+            "_name": "benefits.q4_2023.additionalInformation.display-only.headline",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          "body": "<p>Complete Journeys and collect Stamps to increase your level and access more benefits.</p>\n<a href=\"#\" data-scrollto=\"faq\" title=\"See Faq\">Learn More About Benefits</a>\n",
+          "headline": "New Benefits Coming Soon"
+        },
+        "not_earned": {
+          ".body": {
+            "_name": "benefits.q4_2023.additionalInformation.not_earned.body",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          ".headline": {
+            "_name": "benefits.q4_2023.additionalInformation.not_earned.headline",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          "body": "Benefit levels locked on August 18th. While you didn’t reach a level this time, keep earning points to unlock one so that you can choose a benefit next selection period.",
+          "headline": "Unlock a Level for Next Time"
+        },
+        "selected": {
+          ".body": {
+            "_name": "benefits.q4_2023.additionalInformation.selected.body",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          ".headline": {
+            "_name": "benefits.q4_2023.additionalInformation.selected.headline",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          "body": "We hope you enjoy your exclusive benefit.",
+          "headline": "Thank You for Being Part of Starbucks<sup>&reg;</sup> Odyssey"
+        }
+      },
+      "callout": {
+        ".body": {
+          "_name": "benefits.q4_2023.callout.body",
+          "isCode": "1"
+        },
+        ".headline": {
+          "_name": "benefits.q4_2023.callout.headline",
+          "isCode": "1"
+        },
+        "body": {
+          ".active": {
+            "_name": "benefits.q4_2023.callout.body.active",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          ".display-only": {
+            "_name": "benefits.q4_2023.callout.body.display-only",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          ".expired": {
+            "_name": "benefits.q4_2023.callout.body.expired",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          "active": "active body coyp",
+          "display-only": "coming soon body",
+          "expired": "expired copy"
+        },
+        "headline": {
+          ".active": {
+            "_name": "benefits.q4_2023.callout.headline.active",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          ".display-only": {
+            "_name": "benefits.q4_2023.callout.headline.display-only",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          ".expired": {
+            "_name": "benefits.q4_2023.callout.headline.expired",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          "active": "active headline",
+          "display-only": "coming soon headline",
+          "expired": "expired headline"
+        }
+      },
+      "coming_soon_modal": {
+        ".slides": {
+          "_name": "benefits.q4_2023.coming_soon_modal.slides",
+          "isCode": "1"
+        },
+        "slides": {
+          ".1": {
+            "_name": "benefits.q4_2023.coming_soon_modal.slides.1",
+            "isCode": "1"
+          },
+          ".2": {
+            "_name": "benefits.q4_2023.coming_soon_modal.slides.2",
+            "isCode": "1"
+          },
+          "1": {
+            ".body": {
+              "_name": "benefits.q4_2023.coming_soon_modal.slides.1.body",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            ".button": {
+              "_name": "benefits.q4_2023.coming_soon_modal.slides.1.button",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            ".headline": {
+              "_name": "benefits.q4_2023.coming_soon_modal.slides.1.headline",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            "body": "A new Benefit Selection Period begins August 21st-27th. Get a first look at the benefits available to Starbucks<sup>&reg;</sup> Odyssey members.",
+            "button": "Next",
+            "headline": "Sneak Peek of Benefits"
+          },
+          "2": {
+            ".body": {
+              "_name": "benefits.q4_2023.coming_soon_modal.slides.2.body",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            ".button": {
+              "_name": "benefits.q4_2023.coming_soon_modal.slides.2.button",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            ".headline": {
+              "_name": "benefits.q4_2023.coming_soon_modal.slides.2.headline",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            "body": "<strong>What exactly are benefits?</strong> They're exclusive experiences, merch, product or philanthropic opportunities you can only access as a Starbucks<sup>&reg;</sup> Odyssey member. Think free coffee, unique events at Starbucks Reserve<sup>&reg;</sup> Roasteries, virtual coffee classes, and so much more.\n  <br>\n  <br>\n  <strong>Unlock benefits levels</strong> by earning points as you complete Journeys or collecting Stamps. The more points you have, the more benefit options you can select from. You can select one benefit per selection period.",
+            "button": "Preview Benefits",
+            "headline": "Benefits 101"
+          }
+        }
+      },
+      "introContent": {
+        ".display-only": {
+          "_name": "benefits.q4_2023.introContent.display-only",
+          "isCode": "1"
+        },
+        "display-only": {
+          ".body": {
+            "_name": "benefits.q4_2023.introContent.display-only.body",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          ".headline": {
+            "_name": "benefits.q4_2023.introContent.display-only.headline",
+            "_skip_tt": 1,
+            "isCode": "1"
+          },
+          "body": "Here are a few of the exciting benefits available this selection period.",
+          "headline": "Preview the Benefits"
         }
       }
     }
