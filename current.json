@@ -1875,6 +1875,10 @@
         "_name": "benefits.q4_2023.introContent",
         "isCode": "1"
       },
+      ".onboarding": {
+        "_name": "benefits.q4_2023.onboarding",
+        "isCode": 1
+      },
       "additionalInformation": {
         ".active": {
           "_name": "benefits.q4_2023.additionalInformation.active",
@@ -2030,10 +2034,6 @@
             "_name": "benefits.q4_2023.coming_soon_modal.slides.1",
             "isCode": "1"
           },
-          ".2": {
-            "_name": "benefits.q4_2023.coming_soon_modal.slides.2",
-            "isCode": "1"
-          },
           "1": {
             ".body": {
               "_name": "benefits.q4_2023.coming_soon_modal.slides.1.body",
@@ -2050,29 +2050,9 @@
               "_skip_tt": 1,
               "isCode": "1"
             },
-            "body": "A new Benefit Selection Period begins August 21st-27th. Get a first look at the benefits available to Starbucks<sup>&reg;</sup> Odyssey members.",
-            "button": "Next",
-            "headline": "Sneak Peek of Benefits"
-          },
-          "2": {
-            ".body": {
-              "_name": "benefits.q4_2023.coming_soon_modal.slides.2.body",
-              "_skip_tt": 1,
-              "isCode": "1"
-            },
-            ".button": {
-              "_name": "benefits.q4_2023.coming_soon_modal.slides.2.button",
-              "_skip_tt": 1,
-              "isCode": "1"
-            },
-            ".headline": {
-              "_name": "benefits.q4_2023.coming_soon_modal.slides.2.headline",
-              "_skip_tt": 1,
-              "isCode": "1"
-            },
-            "body": "<strong>What exactly are benefits?</strong> They're exclusive experiences, merch, product or philanthropic opportunities you can only access as a Starbucks<sup>&reg;</sup> Odyssey member. Think free coffee, unique events at Starbucks Reserve<sup>&reg;</sup> Roasteries, virtual coffee classes, and so much more.\n  <br>\n  <br>\n  <strong>Unlock benefits levels</strong> by earning points as you complete Journeys or collecting Stamps. The more points you have, the more benefit options you can select from. You can select one benefit per selection period.",
+            "body": "The last Benefit Selection Period of 2023 is coming December 4th at 12 PM PST. Check out some of the exciting benefits you could choose from!",
             "button": "Preview Benefits",
-            "headline": "Benefits 101"
+            "headline": "Get a Sneak Peek at the Next Benefits"
           }
         }
       },
@@ -2094,6 +2074,110 @@
           },
           "body": "Here are a few of the exciting benefits available this selection period.",
           "headline": "Preview the Benefits"
+        }
+      },
+      "onboarding": {
+        ".slides": {
+          "_name": "benefits.q4_2023.onboarding.slides",
+          "isCode": "1"
+        },
+        "slides": {
+          ".1": {
+            "_name": "benefits.q4_2023.onboarding.slides.1",
+            "isCode": "1"
+          },
+          ".2": {
+            "_name": "benefits.q4_2023.onboarding.slides.2",
+            "isCode": "1"
+          },
+          ".3": {
+            "_name": "benefits.q4_2023.onboarding.slides.3",
+            "isCode": "1"
+          },
+          ".4": {
+            "_name": "benefits.q4_2023.onboarding.slides.4",
+            "isCode": "1"
+          },
+          "1": {
+            ".body": {
+              "_name": "benefits.q4_2023.onboarding.slides.1.body",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            ".button": {
+              "_name": "benefits.q4_2023.onboarding.slides.1.button",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            ".headline": {
+              "_name": "benefits.q4_2023.onboarding.slides.1.headline",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            "body": "Select one benefit now through December 10th. Let's walk through how it works!",
+            "button": "Next",
+            "headline": "It's Time to Choose a Benefit"
+          },
+          "2": {
+            ".body": {
+              "_name": "benefits.q4_2023.onboarding.slides.2.body",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            ".button": {
+              "_name": "benefits.q4_2023.onboarding.slides.2.button",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            ".headline": {
+              "_name": "benefits.q4_2023.onboarding.slides.2.headline",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            "body": "Select one benefit from one of the levels you've unlocked by 11:59 PM PST, December 10th.",
+            "button": "Next",
+            "headline": "Choose One Benefit"
+          },
+          "3": {
+            ".body": {
+              "_name": "benefits.q4_2023.onboarding.slides.3.body",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            ".button": {
+              "_name": "benefits.q4_2023.onboarding.slides.3.button",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            ".headline": {
+              "_name": "benefits.q4_2023.onboarding.slides.3.headline",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            "body": "Some benefits have limited quantity, so pick your favorite quickly.",
+            "button": "Next",
+            "headline": "Act Fast"
+          },
+          "4": {
+            ".body": {
+              "_name": "benefits.q4_2023.onboarding.slides.4.body",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            ".button": {
+              "_name": "benefits.q4_2023.onboarding.slides.4.button",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            ".headline": {
+              "_name": "benefits.q4_2023.onboarding.slides.4.headline",
+              "_skip_tt": 1,
+              "isCode": "1"
+            },
+            "body": "The more levels you've unlocked, the more benefits you can choose from. Remember, you won't lose points when selecting a benefit.",
+            "button": "Let's Go",
+            "headline": "Keep Unlocking Levels"
+          }
         }
       }
     }
@@ -4514,6 +4598,11 @@
       "headline": "Coming Soon"
     },
     "eventType": {
+      ".bonus": {
+        "_name": "points_ledger.eventType.bonus",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
       ".enrollment": {
         "_name": "points_ledger.eventType.enrollment",
         "_skip_tt": 1,
@@ -4539,6 +4628,7 @@
         "_skip_tt": 1,
         "isCode": "1"
       },
+      "bonus": "Bonus from {{- activity_type }}",
       "enrollment": "Enrollment",
       "point_correction": "Point Correction",
       "stamp_ownership": "Stamp Added",
