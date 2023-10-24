@@ -4598,11 +4598,6 @@
       "headline": "Coming Soon"
     },
     "eventType": {
-      ".bonus": {
-        "_name": "points_ledger.eventType.bonus",
-        "_skip_tt": 1,
-        "isCode": 1
-      },
       ".enrollment": {
         "_name": "points_ledger.eventType.enrollment",
         "_skip_tt": 1,
@@ -4628,7 +4623,6 @@
         "_skip_tt": 1,
         "isCode": "1"
       },
-      "bonus": "Bonus from {{- activity_type }}",
       "enrollment": "Enrollment",
       "point_correction": "Point Correction",
       "stamp_ownership": "Stamp Added",
