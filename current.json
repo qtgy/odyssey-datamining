@@ -2224,11 +2224,6 @@
       "_skip_tt": 1,
       "isCode": 1
     },
-    ".confirm_benefit": {
-      "_name": "buttons.confirm_benefit",
-      "_skip_tt": 1,
-      "isCode": 1
-    },
     ".continue": {
       "_name": "buttons.continue",
       "_skip_tt": 1,
@@ -2390,11 +2385,10 @@
       }
     },
     "back": "Back",
-    "back_to_benefits": "Back to Benefits",
+    "back_to_benefits": "Go Back to Benefits",
     "close": "Close",
     "close_title": "CLOSE",
     "confirm": "Confirm",
-    "confirm_benefit": "Yes, Select Benefit",
     "continue": "Continue",
     "entry_reset": "<i class=\"fas fa-undo\"></i> GO BACK",
     "go_back": "Go Back",
@@ -2410,7 +2404,7 @@
     "reg": "REGISTER",
     "see_results": "See your results",
     "select": "Select",
-    "select_benefit": "Select",
+    "select_benefit": "Select Benefit",
     "select_file": "SELECT FILE",
     "sign_in": "SIGN IN",
     "start_over": "Start Over",
