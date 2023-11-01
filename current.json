@@ -1879,6 +1879,11 @@
         "_name": "benefits.q4_2023.onboarding",
         "isCode": 1
       },
+      ".previousBenefitsHeadline": {
+        "_name": "benefits.q4_2023.previousBenefitsHeadline",
+        "_skip_tt": 1,
+        "isCode": "1"
+      },
       "additionalInformation": {
         ".active": {
           "_name": "benefits.q4_2023.additionalInformation.active",
@@ -1989,19 +1994,22 @@
             "_skip_tt": 1,
             "isCode": "1"
           },
+          ".after": {
+            "_name": "benefits.q4_2023.callout.body.after",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
           ".display-only": {
             "_name": "benefits.q4_2023.callout.body.display-only",
             "_skip_tt": 1,
             "isCode": "1"
           },
           ".expired": {
-            "_name": "benefits.q4_2023.callout.body.expired",
-            "_skip_tt": 1,
             "isCode": "1"
           },
-          "active": "active body coyp",
-          "display-only": "coming soon body",
-          "expired": "expired copy"
+          "active": "Level 1-5: Choose one benefit by December 10th.",
+          "after": "Keep an eye out for the next selection period.",
+          "display-only": "Get a sneak peek at what’s coming."
         },
         "headline": {
           ".active": {
@@ -2009,19 +2017,22 @@
             "_skip_tt": 1,
             "isCode": "1"
           },
+          ".after": {
+            "_name": "benefits.q4_2023.callout.headline.after",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
           ".display-only": {
             "_name": "benefits.q4_2023.callout.headline.display-only",
             "_skip_tt": 1,
             "isCode": "1"
           },
           ".expired": {
-            "_name": "benefits.q4_2023.callout.headline.expired",
-            "_skip_tt": 1,
             "isCode": "1"
           },
-          "active": "active headline",
-          "display-only": "coming soon headline",
-          "expired": "expired headline"
+          "active": "Choose a Benefit",
+          "after": "The Benefit Selection Has Ended",
+          "display-only": "Choose Your Benefits Soon"
         }
       },
       "coming_soon_modal": {
@@ -2179,7 +2190,8 @@
             "headline": "Keep Unlocking Levels"
           }
         }
-      }
+      },
+      "previousBenefitsHeadline": "My Collected Benefits"
     }
   },
   "buttons": {
@@ -2209,6 +2221,11 @@
     },
     ".confirm": {
       "_name": "buttons.confirm",
+      "_skip_tt": 1,
+      "isCode": 1
+    },
+    ".confirm_benefit": {
+      "_name": "buttons.confirm_benefit",
       "_skip_tt": 1,
       "isCode": 1
     },
@@ -2373,10 +2390,11 @@
       }
     },
     "back": "Back",
-    "back_to_benefits": "Go Back to Benefits",
+    "back_to_benefits": "Back to Benefits",
     "close": "Close",
     "close_title": "CLOSE",
     "confirm": "Confirm",
+    "confirm_benefit": "Yes, Select Benefit",
     "continue": "Continue",
     "entry_reset": "<i class=\"fas fa-undo\"></i> GO BACK",
     "go_back": "Go Back",
@@ -2392,7 +2410,7 @@
     "reg": "REGISTER",
     "see_results": "See your results",
     "select": "Select",
-    "select_benefit": "Select Benefit",
+    "select_benefit": "Select",
     "select_file": "SELECT FILE",
     "sign_in": "SIGN IN",
     "start_over": "Start Over",
