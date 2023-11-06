@@ -41,6 +41,10 @@
       "_name": "benefits.level4",
       "isCode": "1"
     },
+    ".level5": {
+      "_name": "benefits.level5",
+      "isCode": 1
+    },
     ".q1_2023": {
       "_name": "benefits.q1_2023",
       "isCode": "1"
@@ -134,9 +138,35 @@
         "_skip_tt": 1,
         "isCode": "1"
       },
+      ".points_level5": {
+        "_name": "benefits.level4.points_level5",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
       "info": "",
       "name": "LEVEL 4",
-      "points": "10000+ PTS"
+      "points": "10000+ PTS",
+      "points_level5": "10000 - 24999 PTS"
+    },
+    "level5": {
+      ".info": {
+        "_name": "benefits.level5.info",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
+      ".name": {
+        "_name": "benefits.level5.name",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
+      ".points": {
+        "_name": "benefits.level5.points",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
+      "info": "",
+      "name": "LEVEL 5",
+      "points": "25000+ PTS"
     },
     "q1_2023": {
       ".additionalInformation": {
@@ -2068,9 +2098,21 @@
         }
       },
       "introContent": {
+        ".active": {
+          "_name": "benefits.q4_2023.introContent.active",
+          "isCode": 1
+        },
         ".display-only": {
           "_name": "benefits.q4_2023.introContent.display-only",
           "isCode": "1"
+        },
+        "active": {
+          ".body": {
+            "_name": "benefits.q4_2023.introContent.active.body",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          "body": "Remember, you'll keep your current points and level after making a selection. <a href=\"#faq\">Learn More About Benefits</a>"
         },
         "display-only": {
           ".body": {
