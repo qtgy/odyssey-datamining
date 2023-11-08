@@ -2251,6 +2251,11 @@
       "_skip_tt": 1,
       "isCode": 1
     },
+    ".cancel": {
+      "_name": "buttons.cancel",
+      "_skip_tt": 1,
+      "isCode": 1
+    },
     ".close": {
       "_name": "buttons.close",
       "_skip_tt": 1,
@@ -2433,6 +2438,7 @@
     },
     "back": "Back",
     "back_to_benefits": "Back to Benefits",
+    "cancel": "Cancel",
     "close": "Close",
     "close_title": "CLOSE",
     "confirm": "Confirm",
@@ -4661,7 +4667,7 @@
       ".bonus": {
         "_name": "points_ledger.eventType.bonus",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".enrollment": {
         "_name": "points_ledger.eventType.enrollment",
@@ -4692,7 +4698,7 @@
       "enrollment": "Enrollment",
       "point_correction": "Point Correction",
       "stamp_ownership": "Stamp Added",
-      "stamp_relinquish": "Stamp Deduction",
+      "stamp_relinquish": "Stamp Deducted",
       "task_completion": "Completed {{- activity_type }} $t(activity_type)"
     },
     "points": "POINTS"
