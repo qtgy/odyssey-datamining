@@ -1991,8 +1991,8 @@
             "_skip_tt": 1,
             "isCode": "1"
           },
-          "body": "Benefit levels locked on August 18th. While you didn’t reach a level this time, keep earning points to unlock one so that you can choose a benefit next selection period.",
-          "headline": "Unlock a Level for Next Time"
+          "body": "<p>\n  If you didn't reach your desired level this time around, don't worry! More opportunities to earn a benefit are coming in the new year.\n</p>\n<p>\n  <a href=\"#/learn-more\">Learn More About Benefits</a>\n</p>",
+          "headline": "Look for More in 2024"
         },
         "selected": {
           ".body": {
@@ -2106,6 +2106,10 @@
           "_name": "benefits.q4_2023.introContent.display-only",
           "isCode": "1"
         },
+        ".not_earned": {
+          "_name": "benefits.q4_2023.introContent.not_earned",
+          "isCode": 1
+        },
         "active": {
           ".body": {
             "_name": "benefits.q4_2023.introContent.active.body",
@@ -2127,6 +2131,20 @@
           },
           "body": "Here are a few of the exciting benefits available this selection period.",
           "headline": "Preview the Benefits"
+        },
+        "not_earned": {
+          ".body": {
+            "_name": "benefits.q4_2023.introContent.not_earned.body",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          ".headline": {
+            "_name": "benefits.q4_2023.introContent.not_earned.headline",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
+          "body": "Here's what is available for eligible members this Benefit Selection Period.",
+          "headline": "Benefits are locked"
         }
       },
       "onboarding": {
