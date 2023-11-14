@@ -1972,12 +1972,18 @@
           ".callout": {
             "isCode": "1"
           },
+          ".faq_jump_link": {
+            "_name": "benefits.q4_2023.additionalInformation.display-only.faq_jump_link",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
           ".headline": {
             "_name": "benefits.q4_2023.additionalInformation.display-only.headline",
             "_skip_tt": 1,
             "isCode": "1"
           },
-          "body": "<p>Complete Journeys and collect Stamps to increase your level and access more benefits.</p>\n<a href=\"#\" data-scrollto=\"faq\" title=\"See Faq\">Learn More About Benefits</a>\n",
+          "body": "<p>Complete Journeys and collect Stamps to increase your level and access more benefits.</p>\n",
+          "faq_jump_link": "Learn More About Benefits",
           "headline": "New Benefits Coming Soon"
         },
         "not_earned": {
@@ -1986,12 +1992,18 @@
             "_skip_tt": 1,
             "isCode": "1"
           },
+          ".faq_jump_link": {
+            "_name": "benefits.q4_2023.additionalInformation.not_earned.faq_jump_link",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
           ".headline": {
             "_name": "benefits.q4_2023.additionalInformation.not_earned.headline",
             "_skip_tt": 1,
             "isCode": "1"
           },
-          "body": "<p>\n  If you didn't reach your desired level this time around, don't worry! More opportunities to earn a benefit are coming in the new year.\n</p>\n<p>\n  <a href=\"#/learn-more\">Learn More About Benefits</a>\n</p>",
+          "body": "If you didn't reach your desired level this time around, don't worry! More opportunities to earn a benefit are coming in the new year.",
+          "faq_jump_link": "Learn More About Benefits",
           "headline": "Look for More in 2024"
         },
         "selected": {
