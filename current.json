@@ -2422,6 +2422,11 @@
       "_skip_tt": 1,
       "isCode": "1"
     },
+    ".to_market": {
+      "_name": "buttons.to_market",
+      "_skip_tt": 1,
+      "isCode": 1
+    },
     ".trivia_save": {
       "_name": "buttons.trivia_save",
       "_skip_tt": 1,
@@ -2501,6 +2506,7 @@
     "submit": "SUBMIT",
     "submit_avatar": "Update My Avatar",
     "survey_save": "Submit",
+    "to_market": "Go to Market",
     "trivia_save": "Submit Answer",
     "try_again": "Try Again",
     "update": "UPDATE",
