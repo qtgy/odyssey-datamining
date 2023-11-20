@@ -1975,7 +1975,7 @@
           ".faq_jump_link": {
             "_name": "benefits.q4_2023.additionalInformation.display-only.faq_jump_link",
             "_skip_tt": 1,
-            "isCode": 1
+            "isCode": "1"
           },
           ".headline": {
             "_name": "benefits.q4_2023.additionalInformation.display-only.headline",
@@ -1983,7 +1983,7 @@
             "isCode": "1"
           },
           "body": "<p>Complete Journeys and collect Stamps to increase your level and access more benefits.</p>\n",
-          "faq_jump_link": "Learn More About Benefits",
+          "faq_jump_link": "Learn more about benefits",
           "headline": "New Benefits Coming Soon"
         },
         "not_earned": {
@@ -1995,7 +1995,7 @@
           ".faq_jump_link": {
             "_name": "benefits.q4_2023.additionalInformation.not_earned.faq_jump_link",
             "_skip_tt": 1,
-            "isCode": 1
+            "isCode": "1"
           },
           ".headline": {
             "_name": "benefits.q4_2023.additionalInformation.not_earned.headline",
@@ -2003,7 +2003,7 @@
             "isCode": "1"
           },
           "body": "If you didn't reach your desired level this time around, don't worry! More opportunities to earn a benefit are coming in the new year.",
-          "faq_jump_link": "Learn More About Benefits",
+          "faq_jump_link": "Learn more about benefits",
           "headline": "Look for More in 2024"
         },
         "selected": {
@@ -2131,9 +2131,9 @@
           ".headline": {
             "_name": "benefits.q4_2023.introContent.active.headline",
             "_skip_tt": 1,
-            "isCode": 1
+            "isCode": "1"
           },
-          "body": "Remember, you'll keep your current points and level after making a selection. <a href=\"#faq\">Learn More About Benefits</a>",
+          "body": "Remember, you'll keep your current points and level after making a selection. <a href=\"#faq\">Learn more about benefits</a>",
           "headline": "Time Remaining:"
         },
         "display-only": {
