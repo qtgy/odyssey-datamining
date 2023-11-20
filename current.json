@@ -139,14 +139,11 @@
         "isCode": "1"
       },
       ".points_level5": {
-        "_name": "benefits.level4.points_level5",
-        "_skip_tt": 1,
         "isCode": "1"
       },
       "info": "",
       "name": "LEVEL 4",
-      "points": "10000+ PTS",
-      "points_level5": "10000 - 14999 PTS"
+      "points": "10000 - 14999 PTS"
     },
     "level5": {
       ".info": {
