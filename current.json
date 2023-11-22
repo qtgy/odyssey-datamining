@@ -2125,12 +2125,18 @@
             "_skip_tt": 1,
             "isCode": "1"
           },
+          ".faq_jump_link": {
+            "_name": "benefits.q4_2023.introContent.active.faq_jump_link",
+            "_skip_tt": 1,
+            "isCode": 1
+          },
           ".headline": {
             "_name": "benefits.q4_2023.introContent.active.headline",
             "_skip_tt": 1,
             "isCode": "1"
           },
-          "body": "Remember, you'll keep your current points and level after making a selection. <a href=\"#faq\">Learn more about benefits</a>",
+          "body": "Remember, you'll keep your current points and level after making a selection.",
+          "faq_jump_link": "Learn more about benefits",
           "headline": "Time Remaining:"
         },
         "display-only": {
