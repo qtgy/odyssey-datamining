@@ -4108,6 +4108,10 @@
       "_skip_tt": 1,
       "isCode": "1"
     },
+    ".exploreOleatoJourney2024": {
+      "_name": "journey_cards.exploreOleatoJourney2024",
+      "isCode": 1
+    },
     ".fallJourney2023": {
       "_name": "journey_cards.fallJourney2023",
       "isCode": "1"
@@ -4233,6 +4237,32 @@
       "thumbnail": "doingGood2023.jpg"
     },
     "expired": "Journey Closed",
+    "exploreOleatoJourney2024": {
+      ".body": {
+        "_name": "journey_cards.exploreOleatoJourney2024.body",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
+      ".headline": {
+        "_name": "journey_cards.exploreOleatoJourney2024.headline",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
+      ".link": {
+        "_name": "journey_cards.exploreOleatoJourney2024.link",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
+      ".thumbnail": {
+        "_name": "journey_cards.exploreOleatoJourney2024.thumbnail",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
+      "body": "See the inspiration behind our latest coffee innovation",
+      "headline": "Explore Oleato™",
+      "link": "Explore the Explore Oleato",
+      "thumbnail": "exploreOleatoJourney2024.jpg"
+    },
     "fallJourney2023": {
       ".body": {
         "_name": "journey_cards.fallJourney2023.body",
