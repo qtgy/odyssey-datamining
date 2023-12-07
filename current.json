@@ -1957,8 +1957,26 @@
             "_skip_tt": 1,
             "isCode": "1"
           },
-          "body": "More benefits are coming later this year. Keep earning points and unlocking levels by completing your Journeys and collecting Stamps.",
-          "headline": "Benefit Selection Period has Closed"
+          ".not_earned": {
+            "_name": "benefits.q4_2023.additionalInformation.after.not_earned",
+            "isCode": 1
+          },
+          "body": "While you didn’t select a benefit this time, more opportunities await in 2024. Complete activities and Journeys to unlock benefits levels in the new year. We hope to see you soon!",
+          "headline": "More Benefits are Coming in 2024",
+          "not_earned": {
+            ".body": {
+              "_name": "benefits.q4_2023.additionalInformation.after.not_earned.body",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            ".headline": {
+              "_name": "benefits.q4_2023.additionalInformation.after.not_earned.headline",
+              "_skip_tt": 1,
+              "isCode": 1
+            },
+            "body": "While you didn’t reach a level this year, more opportunities await in 2024. Complete activities and Journeys to reach your first level next year. We hope to see you soon.",
+            "headline": "More Benefits are Coming in 2024"
+          }
         },
         "display-only": {
           ".body": {
