@@ -4817,7 +4817,7 @@
         "_skip_tt": 1,
         "isCode": "1"
       },
-      "bonus": "Bonus from {{- activity_type }}",
+      "bonus": "Bonus from {{- activity_type }} $t(activity_type)",
       "enrollment": "Enrollment",
       "point_correction": "Point Correction",
       "stamp_ownership": "Stamp Added",
