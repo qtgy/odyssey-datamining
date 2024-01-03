@@ -64,25 +64,30 @@
       "_name": "benefits.highlightImages",
       "isCode": 1
     },
+    ".level": {
+      "_name": "benefits.level",
+      "_skip_tt": 1,
+      "isCode": 1
+    },
     ".level1": {
-      "_name": "benefits.level1",
       "isCode": "1"
     },
     ".level2": {
-      "_name": "benefits.level2",
       "isCode": "1"
     },
     ".level3": {
-      "_name": "benefits.level3",
       "isCode": "1"
     },
     ".level4": {
-      "_name": "benefits.level4",
       "isCode": "1"
     },
     ".level5": {
-      "_name": "benefits.level5",
       "isCode": "1"
+    },
+    ".points": {
+      "_name": "benefits.points",
+      "_skip_tt": 1,
+      "isCode": 1
     },
     ".q1_2023": {
       "_name": "benefits.q1_2023",
@@ -204,139 +209,8 @@
         "title": "Justine H."
       }
     },
-    "level1": {
-      ".info": {
-        "_name": "benefits.level1.info",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".minPointsRequire": {
-        "_name": "benefits.level1.minPointsRequire",
-        "_skip_tt": 1,
-        "isCode": 1
-      },
-      ".name": {
-        "_name": "benefits.level1.name",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".points": {
-        "_name": "benefits.level1.points",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      "info": "",
-      "minPointsRequire": "1000",
-      "name": "Level 1",
-      "points": "1000 - 2999 Points"
-    },
-    "level2": {
-      ".info": {
-        "_name": "benefits.level2.info",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".minPointsRequire": {
-        "_name": "benefits.level2.minPointsRequire",
-        "_skip_tt": 1,
-        "isCode": 1
-      },
-      ".name": {
-        "_name": "benefits.level2.name",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".points": {
-        "_name": "benefits.level2.points",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      "info": "",
-      "minPointsRequire": "3000",
-      "name": "Level 2",
-      "points": "3000 - 5999 Points"
-    },
-    "level3": {
-      ".info": {
-        "_name": "benefits.level3.info",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".minPointsRequire": {
-        "_name": "benefits.level3.minPointsRequire",
-        "_skip_tt": 1,
-        "isCode": 1
-      },
-      ".name": {
-        "_name": "benefits.level3.name",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".points": {
-        "_name": "benefits.level3.points",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      "info": "",
-      "minPointsRequire": "6000",
-      "name": "Level 3",
-      "points": "6000 - 9999 Points"
-    },
-    "level4": {
-      ".info": {
-        "_name": "benefits.level4.info",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".minPointsRequire": {
-        "_name": "benefits.level4.minPointsRequire",
-        "_skip_tt": 1,
-        "isCode": 1
-      },
-      ".name": {
-        "_name": "benefits.level4.name",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".points": {
-        "_name": "benefits.level4.points",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".points_level5": {
-        "isCode": "1"
-      },
-      "info": "",
-      "minPointsRequire": "10000",
-      "name": "Level 4",
-      "points": "10000 - 14999 Points"
-    },
-    "level5": {
-      ".info": {
-        "_name": "benefits.level5.info",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".minPointsRequire": {
-        "_name": "benefits.level5.minPointsRequire",
-        "_skip_tt": 1,
-        "isCode": 1
-      },
-      ".name": {
-        "_name": "benefits.level5.name",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".points": {
-        "_name": "benefits.level5.points",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      "info": "",
-      "minPointsRequire": "15000",
-      "name": "Level 5",
-      "points": "15000+ Points"
-    },
+    "level": "Level",
+    "points": "Points",
     "q1_2023": {
       ".additionalInformation": {
         "_name": "benefits.q1_2023.additionalInformation",
