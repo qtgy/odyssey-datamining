@@ -4841,7 +4841,7 @@
         "_skip_tt": 1,
         "isCode": 1
       },
-      "body_copy": "You've unlocked your first collectable Stamp by completing {{ journeyName }} — find more about it in your Stamps tab.",
+      "body_copy": "You've unlocked your first collectable Stamp by completing {{- journeyName }} — find more about it in your Stamps tab.",
       "headline_copy": "First Stamp Unlocked"
     },
     "headline_copy_placeholder": "New Stamp Unlocked (placeholder)",
@@ -4856,7 +4856,7 @@
         "_skip_tt": 1,
         "isCode": 1
       },
-      "body_copy": "By completing {{ journeyName }} journey, you've unlocked {{ stampName }} Stamp — find more about it in the Stamps tab.",
+      "body_copy": "Journey complete! You just earned the {{- journeyName }} Stamp. Check it out in your Stamp tab today.",
       "headline_copy": "New Stamp Unlocked"
     }
   },
