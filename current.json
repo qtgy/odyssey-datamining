@@ -4262,6 +4262,10 @@
       "_name": "journey_cards.holidayJourney2023",
       "isCode": 1
     },
+    ".onboardingJourney2024": {
+      "_name": "journey_cards.onboardingJourney2024",
+      "isCode": 1
+    },
     ".placeholder": {
       "_name": "journey_cards.placeholder",
       "isCode": "1"
@@ -4545,6 +4549,32 @@
       "headline": "2023 Unwrapped",
       "link": "Explore the 2023 Unwrapped",
       "thumbnail": "holidayJourney2023.jpg"
+    },
+    "onboardingJourney2024": {
+      ".body": {
+        "_name": "journey_cards.onboardingJourney2024.body",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
+      ".headline": {
+        "_name": "journey_cards.onboardingJourney2024.headline",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
+      ".link": {
+        "_name": "journey_cards.onboardingJourney2024.link",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
+      ".thumbnail": {
+        "_name": "journey_cards.onboardingJourney2024.thumbnail",
+        "_skip_tt": 1,
+        "isCode": 1
+      },
+      "body": "Ready for adventure? Take a tour of everything Starbucks Odyssey has to offer!",
+      "headline": "Starbucks<sup>&reg;</sup> Odyssey 101",
+      "link": "Explore the Starbucks Odyssey 101",
+      "thumbnail": "onboardingJourney2024.jpg"
     },
     "placeholder": {
       ".headline": {
