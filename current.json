@@ -2411,6 +2411,11 @@
       "_skip_tt": 1,
       "isCode": "1"
     },
+    ".back_to_activities": {
+      "_name": "buttons.back_to_activities",
+      "_skip_tt": 1,
+      "isCode": 1
+    },
     ".back_to_benefits": {
       "_name": "buttons.back_to_benefits",
       "_skip_tt": 1,
@@ -2607,6 +2612,7 @@
       }
     },
     "back": "Back",
+    "back_to_activities": "Back to Activities",
     "back_to_benefits": "Back to Benefits",
     "cancel": "Cancel",
     "close": "Close",
