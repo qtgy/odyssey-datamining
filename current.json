@@ -4204,7 +4204,7 @@
     },
     ".akuJourney2023": {
       "_name": "journey_cards.akuJourney2023",
-      "isCode": 1
+      "isCode": "1"
     },
     ".beanToCup2023": {
       "_name": "journey_cards.beanToCup2023",
@@ -4236,7 +4236,7 @@
     },
     ".exploreOleatoJourney2024": {
       "_name": "journey_cards.exploreOleatoJourney2024",
-      "isCode": 1
+      "isCode": "1"
     },
     ".fallJourney2023": {
       "_name": "journey_cards.fallJourney2023",
@@ -4252,7 +4252,7 @@
     },
     ".heritageJourney2024": {
       "_name": "journey_cards.heritageJourney2024",
-      "isCode": 1
+      "isCode": "1"
     },
     ".holiday2022": {
       "_name": "journey_cards.holiday2022",
@@ -4260,11 +4260,11 @@
     },
     ".holidayJourney2023": {
       "_name": "journey_cards.holidayJourney2023",
-      "isCode": 1
+      "isCode": "1"
     },
     ".onboardingJourney2024": {
       "_name": "journey_cards.onboardingJourney2024",
-      "isCode": 1
+      "isCode": "1"
     },
     ".placeholder": {
       "_name": "journey_cards.placeholder",
@@ -4277,7 +4277,7 @@
     },
     ".springBracketJourney2024": {
       "_name": "journey_cards.springBracketJourney2024",
-      "isCode": 1
+      "isCode": "1"
     },
     ".springTournamentJourney2023": {
       "_name": "journey_cards.springTournamentJourney2023",
@@ -4293,22 +4293,22 @@
       ".body": {
         "_name": "journey_cards.akuJourney2023.body",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".headline": {
         "_name": "journey_cards.akuJourney2023.headline",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".link": {
         "_name": "journey_cards.akuJourney2023.link",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".thumbnail": {
         "_name": "journey_cards.akuJourney2023.thumbnail",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       "body": "Unleash your inner dreamer and embark on a mission with Aku.",
       "headline": "Aku Adventure",
@@ -4375,22 +4375,22 @@
       ".body": {
         "_name": "journey_cards.exploreOleatoJourney2024.body",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".headline": {
         "_name": "journey_cards.exploreOleatoJourney2024.headline",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".link": {
         "_name": "journey_cards.exploreOleatoJourney2024.link",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".thumbnail": {
         "_name": "journey_cards.exploreOleatoJourney2024.thumbnail",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       "body": "Come discover the inspiration behind our Oleato<sup class=\"smaller\">TM</sup> beverages.",
       "headline": "Explore Oleato<sup class=\"smaller\">TM</sup> Journey",
@@ -4476,22 +4476,22 @@
       ".body": {
         "_name": "journey_cards.heritageJourney2024.body",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".headline": {
         "_name": "journey_cards.heritageJourney2024.headline",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".link": {
         "_name": "journey_cards.heritageJourney2024.link",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".thumbnail": {
         "_name": "journey_cards.heritageJourney2024.thumbnail",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       "body": "Dive into more than 50 years of Starbucks<sup>&reg;</sup> history and our innovations along the way.",
       "headline": "Coffee Heritage",
@@ -4528,22 +4528,22 @@
       ".body": {
         "_name": "journey_cards.holidayJourney2023.body",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".headline": {
         "_name": "journey_cards.holidayJourney2023.headline",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".link": {
         "_name": "journey_cards.holidayJourney2023.link",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".thumbnail": {
         "_name": "journey_cards.holidayJourney2023.thumbnail",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       "body": "Unwrap holiday cheer and celebrate one year of Starbucks<sup>&reg;</sup> Odyssey.",
       "headline": "2023 Unwrapped",
@@ -4554,22 +4554,22 @@
       ".body": {
         "_name": "journey_cards.onboardingJourney2024.body",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".headline": {
         "_name": "journey_cards.onboardingJourney2024.headline",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".link": {
         "_name": "journey_cards.onboardingJourney2024.link",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".thumbnail": {
         "_name": "journey_cards.onboardingJourney2024.thumbnail",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       "body": "Ready for adventure? Take a tour of everything Starbucks Odyssey has to offer!",
       "headline": "Starbucks<sup>&reg;</sup> Odyssey 101",
@@ -4589,24 +4589,24 @@
       ".body": {
         "_name": "journey_cards.springBracketJourney2024.body",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".headline": {
         "_name": "journey_cards.springBracketJourney2024.headline",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".link": {
         "_name": "journey_cards.springBracketJourney2024.link",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
       ".thumbnail": {
         "_name": "journey_cards.springBracketJourney2024.thumbnail",
         "_skip_tt": 1,
-        "isCode": 1
+        "isCode": "1"
       },
-      "body": "What signature drink do you think will win? Make your picks.",
+      "body": "What signature drink do you think will win? Make your picks!",
       "headline": "Hot vs Cold '24",
       "link": "",
       "thumbnail": "springBracketJourney2024.jpg"
