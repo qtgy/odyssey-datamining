@@ -4282,11 +4282,9 @@
       "isCode": "1"
     },
     ".springBracketJourney2024": {
-      "_name": "journey_cards.springBracketJourney2024",
       "isCode": "1"
     },
     ".springTournamentJourney2023": {
-      "_name": "journey_cards.springTournamentJourney2023",
       "isCode": "1"
     },
     ".summerJourney2023": {
@@ -4591,58 +4589,6 @@
       "headline": "More Journeys coming soon"
     },
     "points": "{{ points }} PTS",
-    "springBracketJourney2024": {
-      ".body": {
-        "_name": "journey_cards.springBracketJourney2024.body",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".headline": {
-        "_name": "journey_cards.springBracketJourney2024.headline",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".link": {
-        "_name": "journey_cards.springBracketJourney2024.link",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".thumbnail": {
-        "_name": "journey_cards.springBracketJourney2024.thumbnail",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      "body": "What signature drink do you think will win? Make your picks!",
-      "headline": "Hot vs Cold '24",
-      "link": "",
-      "thumbnail": "springBracketJourney2024.jpg"
-    },
-    "springTournamentJourney2023": {
-      ".body": {
-        "_name": "journey_cards.springTournamentJourney2023.body",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".headline": {
-        "_name": "journey_cards.springTournamentJourney2023.headline",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".link": {
-        "_name": "journey_cards.springTournamentJourney2023.link",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      ".thumbnail": {
-        "_name": "journey_cards.springTournamentJourney2023.thumbnail",
-        "_skip_tt": 1,
-        "isCode": "1"
-      },
-      "body": "What signature drink do you think will win? Make your picks.",
-      "headline": "Signature Showdown",
-      "link": "Explore the The Drink Draft",
-      "thumbnail": "springTournamentJourney2023.jpg"
-    },
     "summerJourney2023": {
       ".body": {
         "_name": "journey_cards.summerJourney2023.body",
